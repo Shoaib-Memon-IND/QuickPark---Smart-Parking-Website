@@ -24,10 +24,10 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css">
 
   <!-- Additional CSS Files -->
-  <link rel="stylesheet" href="assets/css/fontawesome.css">
-  <link rel="stylesheet" href="assets/css/templatemo-space-dynamic.css">
-  <link rel="stylesheet" href="assets/css/animated.css">
-  <link rel="stylesheet" href="assets/css/owl.css">
+  <link rel="stylesheet" href="../assets/css/fontawesome.css">
+  <link rel="stylesheet" href="../assets/css/templatemo-space-dynamic.css">
+  <link rel="stylesheet" href="../assets/css/animated.css">
+  <link rel="stylesheet" href="../assets/css/owl.css">
 </head>
 
 <body>
@@ -65,7 +65,7 @@
               <li class="scroll-to-section"><a href="#blog">Blog</a></li>
               <li class="scroll-to-section"><a href="#contact">Contact Us</a></li>
               <li class="scroll-to-section">
-                <div class="main-red-button"><a href="login.php">Login/Sign up</a></div>
+                <div class="main-red-button"><a href="my-account.php">My Account</a></div>
               </li>
             </ul>
             <a class='menu-trigger'>
@@ -89,7 +89,7 @@
                 <h6>Welcome to QuickPark</h6>
                 <h2>Find <em>Parking</em> Without <span> Hustle </span> !!!</h2>
                 <p>Parking is easy with just few clicks on QuickPark. <span>#ParkHustleFree</span></p>
-                <form id="search" action="login.php">
+                <form id="search" action="map.php">
                   <fieldset>
                     <button type="submit" class="main-button"><i class="fas fa-search-location"></i> Find
                       Parking</button>
@@ -99,7 +99,7 @@
             </div>
             <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="assets/images/1.jpeg" alt="team meeting">
+                <img src="../assets/images/1.jpeg" alt="team meeting">
               </div>
             </div>
           </div>
@@ -116,7 +116,7 @@
       <div class="row">
         <div class="col-lg-4">
           <div class="left-image wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <img src="assets/images/about-left-image.png" alt="person graphic">
+            <img src="../assets/images/about-left-image.png" alt="person graphic">
           </div>
         </div>
         <div class="col-lg-8 align-self-center">
@@ -218,7 +218,7 @@
                 <div class="team-coverflow">
 
                   <div class="team-img">
-                    <img src="assets/images/Shoaib Memon.jpg" alt="" data-no-retina>
+                    <img src="../assets/images/Shoaib Memon.jpg" alt="" data-no-retina>
                     <div class="team-box-content">
                       <ul class="team-social white-bg">
                         <li>
@@ -240,7 +240,7 @@
                 <div class="team-coverflow">
                   <div class="team-data-img">
                     <div class="team-img">
-                      <img src="assets/images/chinmay.png" alt="" data-no-retina>
+                      <img src="../assets/images/chinmay.png" alt="" data-no-retina>
                       <div class="team-box-content">
                         <ul class="team-social white-bg">
                           <li><a href="javascript:void(0)"><i class="ti ti-facebook" aria-hidden="true"></i></a></li>
@@ -263,7 +263,7 @@
                 <div class="team-coverflow">
                   <div class="team-data-img">
                     <div class="team-img">
-                      <img src="assets/images/kiran.jpg" alt="" data-no-retina>
+                      <img src="../assets/images/kiran.jpg" alt="" data-no-retina>
                       <div class="team-box-content">
                         <ul class="team-social white-bg">
                           <li><a href="javascript:void(0)"><i class="ti ti-facebook" aria-hidden="true"></i></a></li>
@@ -286,7 +286,7 @@
                 <div class="team-coverflow">
                   <div class="team-data-img">
                     <div class="team-img">
-                      <img src="assets/images/Jay.jpeg" alt="" data-no-retina>
+                      <img src="../assets/images/Jay.jpeg" alt="" data-no-retina>
                       <div class="team-box-content">
                         <ul class="team-social white-bg">
                           <li><a href="javascript:void(0)"><i class="ti ti-facebook" aria-hidden="true"></i></a></li>
@@ -309,7 +309,7 @@
                 <div class="team-coverflow">
                   <div class="team-data-img">
                     <div class="team-img">
-                      <img src="assets/images/Aditi.jpeg" alt="" data-no-retina>
+                      <img src="../assets/images/Aditi.jpeg" alt="" data-no-retina>
                       <div class="team-box-content">
                         <ul class="team-social white-bg">
                           <li><a href="javascript:void(0)"><i class="ti ti-facebook" aria-hidden="true"></i></a></li>
@@ -332,7 +332,7 @@
                 <div class="team-coverflow">
                   <div class="team-data-img">
                     <div class="team-img">
-                      <img src="assets/images/Imran.jpeg" alt="" data-no-retina>
+                      <img src="../assets/images/Imran.jpeg" alt="" data-no-retina>
                       <div class="team-box-content">
                         <ul class="team-social white-bg">
                           <li><a href="javascript:void(0)"><i class="ti ti-facebook" aria-hidden="true"></i></a></li>
@@ -361,7 +361,7 @@
 
   <div id="rent" class="banner-container">
     <button class="btn" type="button"><a href="#">Apply Now</a></button>
-    <img src="assets/images/QuickparkBan.png">
+    <img src="../assets/images/QuickparkBan.png">
   </div>
 
   <div id="blog" class="our-blog section">
@@ -374,18 +374,18 @@
         </div>
         <div class="col-lg-6 wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.25s">
           <div class="top-dec">
-            <img src="assets/images/blog-dec.png" alt="">
+            <img src="../assets/images/blog-dec.png" alt="">
           </div>
         </div>
       </div>
       <div class="row">
         <div class="col-lg-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.25s">
           <div class="left-image">
-            <a href="#"><img src="assets/images/big-blog-thumb.jpg" alt="Workspace Desktop"></a>
+            <a href="#"><img src="../assets/images/big-blog-thumb.jpg" alt="Workspace Desktop"></a>
             <div class="info">
               <div class="inner-content">
                 <ul>
-                  <li><i class="fa fa-calendar"></i> 06 Oct 2021</li>
+                  <li><i class="fa fa-calendar"></i> 16 Oct 2021</li>
                   <li><i class="fa fa-users"></i> Team QuickPark</li>
                 </ul>
                 <a href="#">
@@ -412,7 +412,7 @@
                   <p>On one hand, we face shortage of parking whereas on the other...</p>
                 </div>
                 <div class="right-image">
-                  <a href="#"><img src="assets/images/blog-thumb-01.jpg" alt=""></a>
+                  <a href="#"><img src="../assets/images/blog-thumb-01.jpg" alt=""></a>
                 </div>
               </li>
               <li>
@@ -424,7 +424,7 @@
                   <p>Availability of things at affordable prices has become quite essential due to...</p>
                 </div>
                 <div class="right-image">
-                  <a href="#"><img src="assets/images/blog-thumb-01.jpg" alt=""></a>
+                  <a href="#"><img src="../assets/images/blog-thumb-01.jpg" alt=""></a>
                 </div>
               </li>
               <li>
@@ -436,7 +436,7 @@
                   <p>A good bond between the servitor and the consumer not only helps to gain...</p>
                 </div>
                 <div class="right-image">
-                  <a href="#"><img src="assets/images/blog-thumb-01.jpg" alt=""></a>
+                  <a href="#"><img src="../assets/images/blog-thumb-01.jpg" alt=""></a>
                 </div>
               </li>
             </ul>
@@ -491,7 +491,7 @@
               </div>
             </div>
             <div class="contact-dec">
-              <img src="assets/images/contact-decoration.png" alt="">
+              <img src="../assets/images/contact-decoration.png" alt="">
             </div>
           </form>
         </div>
@@ -537,12 +537,11 @@
           <div class="col-lg-4">
             <div class="footer-widget">
               <div class="footer-logo">
-                <a href="index.html"><img src="assets/images/Logo.png" class="img-fluid"></a>
+                <a href="#"><img src="../assets/images/Logo.png" class="img-fluid"></a>
               </div>
               <div class="footer-text">
                 <p>QuickPark(India) was founded with the purpose of making parking space available with ease at
-                  affordable prices.
-                </p>
+                  affordable prices.</p>
               </div>
               <div class="footer-social-icon">
                 <span>Follow us</span>
@@ -559,15 +558,15 @@
                 <h3>Useful Links</h3>
               </div>
               <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Find A Parking</a></li>
-                <li><a href="#">About Us</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="map.php">Find A Parking</a></li>
+                <li><a href="services">About Us</a></li>
                 <li><a href="#">Rent Your Space</a></li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">Our Services</a></li>
+                <li><a href="blog">Blog</a></li>
+                <li><a href="about">Our Services</a></li>
                 <li><a href="#">Teams Of Services</a></li>
                 <li><a href="#">Privacy Policy</a></li>
-                <li><a href="#">Customer Support</a></li>
+                <li><a href="contact">Customer Support</a></li>
               </ul>
             </div>
           </div>
@@ -601,10 +600,10 @@
           <div class="col-xl-6 col-lg-6 text-right d-none d-lg-block">
             <div class="footer-menu">
               <ul>
-                <li><a href="#">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="#">Terms Of Services</a></li>
                 <li><a href="#">Privacy Policy</a></li>
-                <li><a href="#">Customer Support</a></li>
+                <li><a href="contact">Customer Support</a></li>
                 <li><a href="#">Feedback</a></li>
               </ul>
             </div>
@@ -614,16 +613,16 @@
     </div>
   </footer>
   <!-- Scripts -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/js/owl-carousel.js"></script>
-  <script src="assets/js/animation.js"></script>
-  <script src="assets/js/imagesloaded.js"></script>
-  <script src="assets/js/templatemo-custom.js"></script>
+  <script src="../vendor/jquery/jquery.min.js"></script>
+  <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../assets/js/owl-carousel.js"></script>
+  <script src="../assets/js/animation.js"></script>
+  <script src="../assets/js/imagesloaded.js"></script>
+  <script src="../assets/js/templatemo-custom.js"></script>
   <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.1.6/js/swiper.min.js"></script>
-  <script src="assets/js/main.js"></script>
-  <script src="assets/js/testimonial.js"></script>
+  <script src="../assets/js/main.js"></script>
+  <script src="../assets/js/testimonial.js"></script>
 
 </body>
 
